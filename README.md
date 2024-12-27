@@ -8,7 +8,6 @@ This project predicts gold prices using a dataset that includes financial indica
 
 ## Dataset Details
 
-- **Source:** [Add your source here, e.g., Kaggle or other platforms]
 - **Number of rows:** 2290
 - **Number of columns:** 6
 - **Features:**
